@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerImage2</string>
+    <string name="roll_label">Roll the Dice!</string>
+    <string name="edt_txt">Digite o Número da sorte</string>
+</resources>
